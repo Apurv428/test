@@ -1,7 +1,5 @@
 from flask import Flask, jsonify
-import sqlite3
 
-from sqlalchemy import null
 
 app = Flask(__name__)
 
